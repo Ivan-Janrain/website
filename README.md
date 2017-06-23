@@ -1,3 +1,4 @@
 # Sample Website
 
-This is a sample website made to setup git push
+This is a sample website made to setup git push.
+It worked...
